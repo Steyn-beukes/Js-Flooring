@@ -56,7 +56,7 @@ ul li:hover ul.dropdown {
 
 .cover-txt-1 {
 	display: flex;
-	gap: 25px;
+	gap: 10px;
 	justify-content: center;
 	margin-top: 15px;
 	margin-bottom: 15px;
@@ -338,7 +338,7 @@ ul li:hover ul.dropdown {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-	gap: 1px
+	gap: 25px
 }
 
 .back img {
